@@ -1,4 +1,5 @@
 body{
+
     color: rgb(32, 34, 170);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -23,7 +24,7 @@ body{
 }
 #container {
     width: 70%;
-    padding: 01em;
+    padding: 1 em;
     text-align: left;
     border: 1px solid rgb(17, 189, 103);
     margin: auto;
